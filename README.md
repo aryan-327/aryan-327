@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Aryan 👋
 
-<!--
-**aryan-327/aryan-327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 #3rd-year B.Tech CSE (AI & ML) student at GIET University, Gunupur 
 
-Here are some ideas to get you started:
+🚀 Payload selected for **NASA Cubes in Space** — SR-7 Sounding Rocket mission
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 1st place – GeoBotics, 1st place – Case-Ore-Inted, 2nd place – Technical Paper, all at MINARE '26 (NIT Rourkela)
+
+💼 R&D / Business Development Intern at **IDS-XR** (immersive training tech)
+
+🛰️ Past: Summer Intern @ **HAL** (Hindustan Aeronautics Limited), Koraput Division — built an offline AI meeting-minutes system 
+
+🌐 Management Co-Lead, **GDG On Campus GIET** | SARS R&D Club
+
+📫 Reach me: Linkedin: [Linkedin](https://www.linkedin.com/in/aryan-patnaik-9b6aa8214/)
