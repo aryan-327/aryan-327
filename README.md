@@ -1,6 +1,9 @@
 Hi, I'm Aryan 👋
 
-🎓 #3rd-year B.Tech CSE (AI & ML) student at GIET University, Gunupur 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,react,flask,fastapi,mongodb,mysql,git,github,canva,vscode,figma" />
+</p>
+🎓 3rd-year B.Tech CSE (AI & ML) student at GIET University, Gunupur 
 
 🚀 Payload selected for **NASA Cubes in Space** — SR-7 Sounding Rocket mission
 
